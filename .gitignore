@@ -1,0 +1,3 @@
+# ignore the quarto directories _site and _book
+/.quarto/
+/_site/
